@@ -1,7 +1,7 @@
 <h1 align="center">Всем привет! Меня зовут Анна!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Исследую мир IT, создаю проекты, экпериментриую</h3>
-Мой путь в разработке начался в марте 2024 года. С тех пор я активно изучаю Python и связанные технологии, придумываю и реализую в проектах идеи, и преодолеваю возникающие препятствия.
+Мой путь в разработке начался в марте 2024 года. С тех пор я активно изучаю Python и связанные технологии, придумываю и реализую в проектах идеи, преодолеваю возникающие препятствия.
 
 <!--
 **aquiima/aquiima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
